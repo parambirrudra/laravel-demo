@@ -47,7 +47,7 @@
                     <div class="panel-body">
                         <table class="table table-striped task-table">
                             <thead>
-                                <th>Task</th>
+                                <th>Task List</th>
                                 <th>&nbsp;</th>
                             </thead>
                             <tbody>
