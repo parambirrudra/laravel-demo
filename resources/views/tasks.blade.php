@@ -5,7 +5,7 @@
         <div class="col-sm-offset-2 col-sm-8">
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    New Task
+                    New Task punnet
                 </div>
 
                 <div class="panel-body">
@@ -41,7 +41,7 @@
             @if (count($tasks) > 0)
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        Current Tasks List
+                        New Tasks List
                     </div>
 
                     <div class="panel-body">
